@@ -1,10 +1,13 @@
+package com.example.demo.services;
+
 import com.example.demo.models.Persona;
 import com.example.demo.repository.PersonaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
-public class PersonaServicio {
 
+@Service
+public class PersonaServicio {
     @Autowired
     private PersonaRepositorio personaRepositorio;
 
