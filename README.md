@@ -3,10 +3,10 @@
 # SISTEMA DE GESTIÓN DE USUARIOS Y RUTINAS DE GIMNASIO
 
 # INTEGRANTES:
--> Francisco Javier Jaramillo Castro.
--> Ivan Alexander Fernandez Cañar.
--> José Francisco Riofrío Maldonado.
--> Gabriel Ricardo Cevallos Medina.
+## -> Francisco Javier Jaramillo Castro.
+## -> Ivan Alexander Fernandez Cañar.
+## -> José Francisco Riofrío Maldonado.
+## -> Gabriel Ricardo Cevallos Medina.
 
 
 # INSTRUCCIONES PARA SISTMA OPERATIVO LINUX (DISTRIBUCIÓN UBUNTU )
